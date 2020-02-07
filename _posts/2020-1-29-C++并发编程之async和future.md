@@ -1,3 +1,10 @@
+---
+layout: post
+title: 
+categories: [C++]
+description: 
+keywords: C++
+---
 # 简介
 支持并发编程是C++11增加的重要特性，新特性是通过`<thread>`库提供并发编程的，该库不仅提供了接近底层的API，还提供了async和future等高级封装的接口。
 # async和future
