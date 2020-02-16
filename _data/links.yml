@@ -2,3 +2,6 @@
   url: http://purecpp.org/
   src: CPP
 
+- name: 区块链学习资料
+  url: https://github.com/chaozh/awesome-blockchain-cn
+  src: 区块链
